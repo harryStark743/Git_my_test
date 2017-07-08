@@ -11,5 +11,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         System.out.println("update");
         System.out.println("update_2");
+        System.out.println("update_3");
+        System.out.println("update_4");
     }
 }
